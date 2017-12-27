@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sakechart\n"
+"POT-Creation-Date: 2014-05-12 15:09+0900\n"
+"PO-Revision-Date: 2014-05-13 09:37+0900\n"
+"Last-Translator: Renshuki\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+"X-Poedit-SearchPath-0: \n"
+
+
+msgid "Title"
+msgstr "日本酒こんしぇるじゅ"
+
+
+msgid "Settings"
+msgstr "設定"
+
+
+msgid "Data"
+msgstr "データ"
+
+
+msgid "Alcohol degree"
+msgstr "日本酒度"
+
+
+msgid "Acidity"
+msgstr "酸度"
+
+
+msgid "Colors"
+msgstr "カラー"
+
+
+msgid "Colors area display"
+msgstr "エリアカラー表示"
+
+
+msgid "Download"
+msgstr "ダウンロード"
+
+
+msgid "Alcohol degree x Acidity Graph"
+msgstr "日本酒度×酸度グラフ"
+
+
+msgid "Or more"
+msgstr "以上"
+
+
+msgid "Or less"
+msgstr "以下"
+
+
+msgid "Sweet"
+msgstr "甘"
+
+
+msgid "Rich"
+msgstr "濃"
+
+
+msgid "Soft"
+msgstr "淡"
+
+
+msgid "Dry"
+msgstr "辛"
+
+
+msgid "Tastes"
+msgstr "味わい"
+
+
+msgid "Rich and Dry"
+msgstr "濃醇辛口"
+
+
+msgid "Rich and Sweet"
+msgstr "濃醇甘口"
+
+
+msgid "Soft and Sweet"
+msgstr "淡麗甘口"
+
+
+msgid "Soft and Dry"
+msgstr "淡麗辛口"

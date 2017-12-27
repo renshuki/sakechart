@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sakechart\n"
+"POT-Creation-Date: 2014-05-12 15:09+0900\n"
+"PO-Revision-Date: 2014-05-13 09:47+0900\n"
+"Last-Translator: Renshuki\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: \n"
+
+
+msgid "Title"
+msgstr "Concierge de Sake"
+
+
+msgid "Settings"
+msgstr "Paramètres"
+
+
+msgid "Data"
+msgstr "Données"
+
+
+msgid "Alcohol degree"
+msgstr "SMV"
+
+
+msgid "Acidity"
+msgstr "Acidité"
+
+
+msgid "Colors"
+msgstr "Couleurs"
+
+
+msgid "Colors area display"
+msgstr "Affichage des zones de couleur"
+
+
+msgid "Download"
+msgstr "Télécharger"
+
+
+msgid "Alcohol degree x Acidity Graph"
+msgstr "Graphique (SMV x Acidité)"
+
+
+msgid "Or more"
+msgstr " ou plus"
+
+
+msgid "Or less"
+msgstr " ou moins"
+
+
+msgid "Sweet"
+msgstr "Doux"
+
+
+msgid "Rich"
+msgstr "Riche"
+
+
+msgid "Soft"
+msgstr "Léger"
+
+
+msgid "Dry"
+msgstr "Sec"
+
+
+msgid "Tastes"
+msgstr "Saveurs"
+
+
+msgid "Rich and Dry"
+msgstr "Riche et sec"
+
+
+msgid "Rich and Sweet"
+msgstr "Riche et doux"
+
+
+msgid "Soft and Sweet"
+msgstr "Léger et doux"
+
+
+msgid "Soft and Dry"
+msgstr "Léger et sec"
